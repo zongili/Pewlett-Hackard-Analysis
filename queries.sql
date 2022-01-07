@@ -286,3 +286,4 @@ LEFT JOIN departments as d
 ON d.dept_no = de.dept_no
 where d.dept_name IN ('Sales','Development');
 
+
