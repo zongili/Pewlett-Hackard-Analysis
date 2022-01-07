@@ -30,7 +30,7 @@ Mentorship program will help the "silver tsunami" problem. PH suggest that emplo
 
 4. When the number of mentors are catogorized by title we have a better picture of the percentage of mentors versus number of employees to be trained. According to query result that shows the percentage of mentors for employees below PH will have one Staff mentor to train 78 new employees. PH will need one mentor to train 74 Engineer positions. These numbers are quite high. There is no mentor available for manager position. PH might want to outsource the training employees or higher new employees to as mentors or hire employees at different time slots to have enough mentors.
 
-![This image shows the result of the mentors query](mentors_titles.PNG)
+![This image shows the result of the mentors query](Resources/mentors_titles.PNG)
 
 ![This image shows the result of the retirement titles and number of mentors and percentages table](Resources/mentor_vs_retiree.PNG)
 
